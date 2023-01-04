@@ -1,4 +1,4 @@
-# data-projects
+# hypothetical medical insurance calculation
 
 ITA -> Molto meglio con i notebook Jupiter 
 
